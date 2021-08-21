@@ -1,5 +1,8 @@
 # Calculadora_Basica_C_Sharp
-Calculadora com operações básicas. Feita em C# com Windows Form.
+
+<p>Calculadora com operações básicas.</p> 
+
+<p>Feita em C# com Windows Form.</p>
 
 https://claudemiralves.github.io/Calculadora_Basica_C_Sharp/
 
