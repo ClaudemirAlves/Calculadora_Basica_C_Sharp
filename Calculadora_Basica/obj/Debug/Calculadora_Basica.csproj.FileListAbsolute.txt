@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Fórum Temático\Calculadora_Basica\bin\Debug\Calculadora_Basica.exe.config
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Fórum Temático\Calculadora_Basica\bin\Debug\Calculadora_Basica.exe
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Fórum Temático\Calculadora_Basica\bin\Debug\Calculadora_Basica.pdb
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Fórum Temático\Calculadora_Basica\obj\Debug\Calculadora_Basica.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Fórum Temático\Calculadora_Basica\obj\Debug\Calculadora_Basica.Form1.resources
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Fórum Temático\Calculadora_Basica\obj\Debug\Calculadora_Basica.Properties.Resources.resources
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Fórum Temático\Calculadora_Basica\obj\Debug\Calculadora_Basica.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Fórum Temático\Calculadora_Basica\obj\Debug\Calculadora_Basica.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Fórum Temático\Calculadora_Basica\obj\Debug\Calculadora_Basica.exe
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Fórum Temático\Calculadora_Basica\obj\Debug\Calculadora_Basica.pdb
